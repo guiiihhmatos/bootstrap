@@ -1,0 +1,31 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background: #90ee90;
+}
+
+.quem-somos {
+    background-color: #d3d3d3;
+    color: gray;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.rounded-circle {
+    margin: 20px;
+}
+
+.servicos {
+    background-color:cyan;
+}
+
+.bg-footer {
+   background-color: black;
+   color: white;
+   
+}
